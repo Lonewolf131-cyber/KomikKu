@@ -1,21 +1,24 @@
 {
   "komik": [
     {
-      "title": "Solo Leveling",
-      "slug": "solo-leveling",
-      "cover": "img/solo-leveling/cover.jpg",
+      "title": "Fusion Fantasy I Can Infinite Epiphany",
+      "slug": "fusion-fantasy-i-can-infinite-epiphany",
+      "cover": "img/fusion-fantasy-i-can-infinite-epiphany/cover.jpg",
       "chapters": [
         {
           "number": 1,
           "pages": [
-            "img/solo-leveling/ch1-p1.jpg",
-            "img/solo-leveling/ch1-p2.jpg"
+            "img/fusion-fantasy-i-can-infinite-epiphany/ch1-p1.jpg",
+            "img/fusion-fantasy-i-can-infinite-epiphany/003.webp",
+            "img/fusion-fantasy-i-can-infinite-epiphany/004.webp",
+            "img/fusion-fantasy-i-can-infinite-epiphany/005.webp",
+            "img/fusion-fantasy-i-can-infinite-epiphany/006.webp"
           ]
         },
         {
           "number": 2,
           "pages": [
-            "img/solo-leveling/ch2-p1.jpg"
+            "img/fusion-fantasy-i-can-infinite-epiphany/ch2-p1.jpg"
           ]
         }
       ]
