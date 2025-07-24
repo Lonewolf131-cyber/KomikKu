@@ -6,57 +6,69 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
-  background: rgba(0, 0, 0, 0.9); /* Hitam transparan */
+  font-family: Arial, sans-serif;
+  background: #121212;
   color: #fff;
   min-height: 100vh;
 }
 
-/* Header */
-.header {
+header {
   text-align: center;
-  padding: 15px 0;
-  background: rgba(34, 34, 34, 0.95);
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.8);
   font-size: 20px;
-  font-weight: 600;
-}
-
-.header h1 {
-  font-size: 24px;
   font-weight: bold;
 }
 
-/* Grid Komik */
+header .back-btn {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.container {
+  padding: 20px;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  gap: 20px;
-  padding: 20px;
-  justify-items: center;
+  gap: 15px;
 }
 
-.komik-item {
-  background: rgba(255, 255, 255, 0.1);
+.card {
+  background: rgba(255, 255, 255, 0.08);
   border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
   overflow: hidden;
-  width: 160px;
   text-align: center;
-  transition: transform 0.3s;
+  transition: transform 0.3s ease;
 }
 
-.komik-item:hover {
+.card:hover {
   transform: scale(1.05);
 }
 
-.komik-item img {
+.card img {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 240px;
+  object-fit: cover;
 }
 
-.komik-item p {
+.card a {
+  display: block;
   padding: 10px;
-  font-size: 14px;
   color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* Komik View */
+.komik-view {
+  padding: 10px;
+}
+
+.komik-view img {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 5px;
 }
