@@ -4,14 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baca Komik</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="assets/style.css">
 </head>
-<body class="bg-gray-900 text-white">
-    <header class="bg-gray-800 p-4 text-center text-2xl font-bold text-indigo-400" id="chapter-title">Loading...</header>
-    <main class="container mx-auto p-6" id="chapter-pages"></main>
+<body>
+    <header>
+        <a href="detail.html?slug=" id="back-to-detail">⬅ Kembali</a>
+        <h1 id="chapter-title"></h1>
+    </header>
+    <main id="chapter-pages" class="chapter-pages"></main>
+    <div class="nav-chapter">
+        <button id="prev-chapter">⬅ Chapter Sebelumnya</button>
+        <button id="next-chapter">Chapter Berikutnya ➡</button>
+    </div>
     <script src="assets/app.js"></script>
-    <script>
-        loadChapter();
-    </script>
 </body>
 </html>
