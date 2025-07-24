@@ -55,8 +55,32 @@
             "img/arcane-sniper/chapter1/020.jpg",
             "img/arcane-sniper/chapter1/021.jpg"
           ]
+        },
+        {
+          "number": 2,
+          "pages": [
+            "img/arcane-sniper/ArcaneSniper.jpg",
+            "img/arcane-sniper/chapter2/001.jpg",
+            "img/arcane-sniper/chapter2/002.jpg",
+            "img/arcane-sniper/chapter2/003.jpg",
+            "img/arcane-sniper/chapter2/004.jpg",
+            "img/arcane-sniper/chapter2/005.jpg",
+            "img/arcane-sniper/chapter2/006.jpg",
+            "img/arcane-sniper/chapter2/007.jpg",
+            "img/arcane-sniper/chapter2/008.jpg",
+            "img/arcane-sniper/chapter2/009.jpg",
+            "img/arcane-sniper/chapter2/010.jpg",
+            "img/arcane-sniper/chapter2/011.jpg",
+            "img/arcane-sniper/chapter2/012.jpg",
+            "img/arcane-sniper/chapter2/013.jpg",
+            "img/arcane-sniper/chapter2/014.jpg",
+            "img/arcane-sniper/chapter2/015.jpg",
+            "img/arcane-sniper/chapter2/016.jpg",
+            "img/arcane-sniper/chapter2/017.jpg",
+            "img/arcane-sniper/chapter2/018.jpg",
+            "img/arcane-sniper/chapter2/019.jpg"
+                  ]
         }
-      ]
     }
   ]
 }
