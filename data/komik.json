@@ -1,61 +1,59 @@
-{
-  "komik": [
-    {
-      "title": "Fusion Fantasy I Can Infinite Epiphany",
-      "slug": "fusion-fantasy-i-can-infinite-epiphany",
-      "cover": "img/fusion-fantasy-i-can-infinite-epiphany/cover.jpg",
-      "chapters": [
-        {
-          "number": 1,
-          "pages": [
-            "img/fusion-fantasy-i-can-infinite-epiphany/002.jpg",
-            "img/fusion-fantasy-i-can-infinite-epiphany/003.webp",
-            "img/fusion-fantasy-i-can-infinite-epiphany/004.webp",
-            "img/fusion-fantasy-i-can-infinite-epiphany/005.webp",
-            "img/fusion-fantasy-i-can-infinite-epiphany/006.webp"
-          ]
-        },
-        {
-          "number": 2,
-          "pages": [
-            "img/fusion-fantasy-i-can-infinite-epiphany/ch2-p1.jpg"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Arcane Sniper",
-      "slug": "arcane-sniper",
-      "cover": "img/arcane-sniper/cover.jpg",
-      "chapters": [
-        {
-          "number": 1,
-          "pages": [
-            "img/arcane-sniper/cover.jpg",
-            "img/arcane-sniper/001.jpg",
-            "img/arcane-sniper/002.jpg",
-            "img/arcane-sniper/003.jpg",
-            "img/arcane-sniper/004.jpg",
-            "img/arcane-sniper/005.jpg",
-            "img/arcane-sniper/006.jpg",
-            "img/arcane-sniper/007.jpg",
-            "img/arcane-sniper/008.jpg",
-            "img/arcane-sniper/009.jpg",
-            "img/arcane-sniper/010.jpg",
-            "img/arcane-sniper/011.jpg",
-            "img/arcane-sniper/012.jpg",
-            "img/arcane-sniper/013.jpg",
-            "img/arcane-sniper/014.jpg",
-            "img/arcane-sniper/015.jpg",
-            "img/arcane-sniper/016.jpg",
-            "img/arcane-sniper/017.jpg",
-            "img/arcane-sniper/018.jpg",
-            "img/arcane-sniper/019.jpg",
-            "img/arcane-sniper/020.jpg",
-            "img/arcane-sniper/021.jpg"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Fusion Fantasy I Can Infinite Epiphany",
+    "slug": "fusion-fantasy-i-can-infinite-epiphany",
+    "cover": "img/fusion-fantasy-i-can-infinite-epiphany/cover.jpg",
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "pages": [
+          "img/fusion-fantasy-i-can-infinite-epiphany/002.jpg",
+          "img/fusion-fantasy-i-can-infinite-epiphany/003.webp",
+          "img/fusion-fantasy-i-can-infinite-epiphany/004.webp",
+          "img/fusion-fantasy-i-can-infinite-epiphany/005.webp",
+          "img/fusion-fantasy-i-can-infinite-epiphany/006.webp"
+        ]
+      },
+      {
+        "title": "Chapter 2",
+        "pages": [
+          "img/fusion-fantasy-i-can-infinite-epiphany/ch2-p1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Arcane Sniper",
+    "slug": "arcane-sniper",
+    "cover": "img/arcane-sniper/cover.jpg",
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "pages": [
+          "img/arcane-sniper/cover.jpg",
+          "img/arcane-sniper/001.jpg",
+          "img/arcane-sniper/002.jpg",
+          "img/arcane-sniper/003.jpg",
+          "img/arcane-sniper/004.jpg",
+          "img/arcane-sniper/005.jpg",
+          "img/arcane-sniper/006.jpg",
+          "img/arcane-sniper/007.jpg",
+          "img/arcane-sniper/008.jpg",
+          "img/arcane-sniper/009.jpg",
+          "img/arcane-sniper/010.jpg",
+          "img/arcane-sniper/011.jpg",
+          "img/arcane-sniper/012.jpg",
+          "img/arcane-sniper/013.jpg",
+          "img/arcane-sniper/014.jpg",
+          "img/arcane-sniper/015.jpg",
+          "img/arcane-sniper/016.jpg",
+          "img/arcane-sniper/017.jpg",
+          "img/arcane-sniper/018.jpg",
+          "img/arcane-sniper/019.jpg",
+          "img/arcane-sniper/020.jpg",
+          "img/arcane-sniper/021.jpg"
+        ]
+      }
+    ]
+  }
+]
